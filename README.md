@@ -1,4 +1,4 @@
-# Starter folder
+# Marathon time analysis
 
 ## Overview
 
